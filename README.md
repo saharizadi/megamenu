@@ -1,2 +1,2 @@
 # megamenu
-Im learning webprograming so im created menu with megamenu
+Im learning webprograming so i created menu with megamenu
